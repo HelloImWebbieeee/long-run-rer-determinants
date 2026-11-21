@@ -1,0 +1,14 @@
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/cleaned/*
+!data/cleaned/.gitkeep
+
+# Literature
+literature/
+
+# Python cache
+__pycache__/
+
+# Private documents
+docs/private_docs/
